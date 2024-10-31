@@ -4,11 +4,11 @@ import ProgressBar from '../components/ProgressBar';
 const data = [
     {
         "question": "What is your name?",
-        "answer": "Shivesh"
+        "answer": "Someone"
     },
     {
         "question": "What is the name of your pet?",
-        "answer": "Macko"
+        "answer": "A dog"
     },
     {
         "question": "What is the name of your country?",
